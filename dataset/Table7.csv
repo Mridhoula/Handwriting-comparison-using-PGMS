@@ -1,0 +1,10 @@
+x5,x05 (upward),x15 (downward),x25 (even),x35 (no pattern)
+Total,0.375,0.11,0.105,0.41
+x02 (retraced staff),0.307,0.182,0.286,0.091
+x12 (curved right),0.293,0.318,0.381,0.706
+x22 (curved left),0.04,0.091,0,0.706
+x32 (both curved),0.173,0.227,0.19,0.706
+x42 (no pattern),0.182,0.182,0.143,0.118
+x03 (rounded arch),0.173,0.136,0.381,0.146
+x13 (pointed arch),0.693,0.682,0.571,0.646
+x23 (no pattern),0.133,0.182,0.041,0.207

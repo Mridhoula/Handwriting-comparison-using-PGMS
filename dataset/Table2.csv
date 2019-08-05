@@ -1,0 +1,6 @@
+Values,x1 ( Relative),x2 (Shape of h loop),x3 (Shape of h arch),x4 (Height of Cross ),x5 (Baseline of h),x6 (Shape of t)
+a = x0,0.78,0.275,0.18,0.715,0.375,0.015
+b = x1,0.015,0.32,0.66,0.105,0.11,0.32
+c = x2,0.055,0.025,0.16,0.01,0.105,0.14
+d = x3,0.15,0.17,0,0.17,0.41,0.315
+e = x4,0,0.21,0,0,0,0.21
